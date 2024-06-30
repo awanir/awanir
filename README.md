@@ -1,5 +1,5 @@
-## Hi there 👋
-Welcome to my GitHub profile! I'm a passionate developer always eager to learn and innovate. Here’s a bit about me and the technologies I work with.
+## Hi there, I am Awagat Nirnay 👋
+
 
 <!--
 **awanir/awanir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
