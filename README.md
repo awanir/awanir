@@ -1,5 +1,5 @@
 ## Hi there, I am Awagat Nirnay 👋,
-## A Full Stack Web Developer
+A Full Stack Web Developer
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
