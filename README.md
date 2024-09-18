@@ -12,6 +12,15 @@ A Full Stack Web Developer
 	<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="Angular" title="Angular"/> &nbsp;
 	<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongodB" title="MongoDB"/> &nbsp;
 	<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/> &nbsp;
+	<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain.svg" alt="Redis" title="Redis"/> &nbsp;
+	<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5"/> &nbsp;
+	<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3"/> &nbsp;
+	<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" alt="socket.io" title="socket.io"/> &nbsp;
+	<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" title="AWS"/> &nbsp;
+	<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" title="Kafka"/> &nbsp;
+	<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" title="RabbitMQ"/> &nbsp;
+	<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Nextjs" title="Nextjs"/> &nbsp;
+	<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Github" title="Github"/> &nbsp;
 </div>
 
 <!--
