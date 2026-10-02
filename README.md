@@ -1,39 +1,51 @@
-## Hi there, I am Awagat Nirnay 👋,
-A Full Stack Web Developer
+# Hi there, I'm Awagat Nirnay 👋
 
+### Full Stack AI Developer · Claude Certified Architect
 
-<div align="center">
-	<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js"/> &nbsp;
-	<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/> &nbsp;
-	<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript"/> &nbsp;
-	<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" title="React"/> &nbsp;
-	<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" title="Redux"/> &nbsp;
-	<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" title="Express"/> &nbsp;
-	<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="Angular" title="Angular"/> &nbsp;
-	<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongodB" title="MongoDB"/> &nbsp;
-	<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/> &nbsp;
-	<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain.svg" alt="Redis" title="Redis"/> &nbsp;
-	<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5"/> &nbsp;
-	<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3"/> &nbsp;
-	<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" alt="socket.io" title="socket.io"/> &nbsp;
-	<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" title="AWS"/> &nbsp;
-	<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" title="Kafka"/> &nbsp;
-	<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" title="RabbitMQ"/> &nbsp;
-	<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Nextjs" title="Nextjs"/> &nbsp;
-	<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Github" title="Github"/> &nbsp;
-</div>
+I build production agentic systems with Claude — multi-agent workflows, Claude Code automations, and MCP integrations that turn weeks of engineering work into days. Backed by **5+ years of full-stack engineering**, I ship applications and features end to end, from the UI down to the infrastructure.
 
-<!--
-**awanir/awanir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🤖 What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Agentic workflows** — multi-agent systems where one agent proposes and another validates, with a human approving before anything changes
+- **Claude Code automation** — custom slash commands, subagents, hooks, and `CLAUDE.md` setups that speed up everyday dev work
+- **AI-powered modernization** — automated version upgrades, code transforms, characterization tests, and AI-assisted repair
+- **Security automation** — CVE scanning and AI patching with rollback, conflict detection, and automatic PR creation
+- **AI cost visibility** — per-invocation spend tracking tagged by feature
+- **AI-assisted QA** — large, role-aware test plans generated with Claude, cutting weeks of writing down to a day
+
+### 🧰 Tech stack
+
+**AI & Agentic Engineering:** Claude Code (slash commands, subagents, hooks, CLAUDE.md) · Claude API · Claude Agent SDK · MCP servers · multi-agent systems · human-in-the-loop workflows · prompt engineering
+
+**Languages:** JavaScript · TypeScript · Python · Go · Java
+
+**Frontend:** React · Next.js · Angular · Zustand · Redux Toolkit · shadcn/ui
+
+**Backend:** Node.js · Express.js · REST APIs · microservices · message brokers · WebSockets (Socket.io) · Payload CMS
+
+**Data:** PostgreSQL · MongoDB · Redis
+
+**DevOps & Cloud:** AWS · Docker · Kubernetes · Helm · CI/CD · Prometheus/Grafana · Trivy
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,go,java,nodejs,express,react,nextjs,angular,redux,tailwind,postgres,mongodb,redis,aws,docker,kubernetes,githubactions,nginx,git,linux&perline=11" alt="Tech stack icons" />
+</p>
+
+### 🚀 Personal projects
+
+- **Optiviz** — real-time Index Options Chain visualizer with live WebSocket updates *(Node.js, React, Socket.io, Redux Toolkit, Chart.js, Redis, MongoDB)*
+- **Elektronik** — e-commerce site with an admin CMS, JWT auth, and CI/CD to AWS via GitHub Actions, tuned with Redis and API caching *(Node.js, React, MongoDB, Redis, AWS EC2/Amplify/S3/SQS, Nginx)*
+- **Fackleaks** — faculty rating platform for SRM University that drew 10,000 clicks in its first 2 days *(Node.js, Express, MongoDB, Passport.js, AWS)*
+- **Store Dashboard** — [client](https://github.com/awanir/storeDashboardClient) and [server](https://github.com/awanir/storeDashboardServer) in TypeScript
+
+### 🏅 Certifications & education
+
+- **Claude Certified Architect – Foundations**
+- B.Tech, SRM University (KTR), 2016–2020
+
+### 📫 Find me
+
+[![Email](https://img.shields.io/badge/Email-awagat10%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:awagat10@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-awanir-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/awanir/)
