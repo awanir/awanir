@@ -33,16 +33,9 @@ I build production agentic systems with Claude — multi-agent workflows, Claude
   <img src="https://skillicons.dev/icons?i=js,ts,python,go,java,nodejs,express,react,nextjs,angular,redux,tailwind,postgres,mongodb,redis,aws,docker,kubernetes,githubactions,nginx,git,linux&perline=11" alt="Tech stack icons" />
 </p>
 
-### 🚀 Personal projects
-
-- **Optiviz** — real-time Index Options Chain visualizer with live WebSocket updates *(Node.js, React, Socket.io, Redux Toolkit, Chart.js, Redis, MongoDB)*
-- **Elektronik** — e-commerce site with an admin CMS, JWT auth, and CI/CD to AWS via GitHub Actions, tuned with Redis and API caching *(Node.js, React, MongoDB, Redis, AWS EC2/Amplify/S3/SQS, Nginx)*
-- **Fackleaks** — faculty rating platform for SRM University that drew 10,000 clicks in its first 2 days *(Node.js, Express, MongoDB, Passport.js, AWS)*
-- **Store Dashboard** — [client](https://github.com/awanir/storeDashboardClient) and [server](https://github.com/awanir/storeDashboardServer) in TypeScript
-
 ### 🏅 Certifications & education
 
-- **Claude Certified Architect – Foundations**
+- **[Claude Certified Architect – Foundations](https://www.credly.com/badges/b0282bed-e4eb-4a91-ab8a-45566452a6af/public_url)** · Anthropic
 - B.Tech, SRM University (KTR), 2016–2020
 
 ### 📫 Find me
