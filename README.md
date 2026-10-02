@@ -8,12 +8,12 @@ I build production agentic systems with Claude — multi-agent workflows, Claude
 
 ### 🤖 What I work on
 
-- **Agentic workflows** — multi-agent systems where one agent proposes and another validates, with a human approving before anything changes
+- **Agentic workflows** — multi-agent systems and human-in-the-loop AI workflows
 - **Claude Code automation** — custom slash commands, subagents, hooks, and `CLAUDE.md` setups that speed up everyday dev work
-- **AI-powered modernization** — automated version upgrades, code transforms, characterization tests, and AI-assisted repair
-- **Security automation** — CVE scanning and AI patching with rollback, conflict detection, and automatic PR creation
-- **AI cost visibility** — per-invocation spend tracking tagged by feature
-- **AI-assisted QA** — large, role-aware test plans generated with Claude, cutting weeks of writing down to a day
+- **MCP integrations** — building MCP servers that connect AI agents to tools and data
+- **Claude API & Agent SDK** — building AI-powered features and autonomous agents
+- **Full-stack development** — React/Next.js frontends, Node.js backends, REST APIs, and microservices
+- **Cloud & DevOps** — AWS, Docker, Kubernetes, and CI/CD pipelines
 
 ### 🧰 Tech stack
 
