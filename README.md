@@ -19,7 +19,7 @@ I build production agentic systems with Claude — multi-agent workflows, Claude
 
 **AI & Agentic Engineering:** Claude Code (slash commands, subagents, hooks, CLAUDE.md) · Claude API · Claude Agent SDK · MCP servers · multi-agent systems · human-in-the-loop workflows · prompt engineering
 
-**Languages:** JavaScript · TypeScript · Python · Go · Java
+**Languages:** JavaScript · TypeScript · Python · Go 
 
 **Frontend:** React · Next.js · Angular · Zustand · Redux Toolkit · shadcn/ui
 
